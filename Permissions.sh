@@ -1,5 +1,5 @@
 echo Enter Filename
-read $fname
+read $fname 
 if [ -r $fname -o -w $fname ]
 then echo File has Read or Write privileges
 elif [ -r $fname -a -w $fname ]
