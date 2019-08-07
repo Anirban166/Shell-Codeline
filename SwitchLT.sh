@@ -1,5 +1,7 @@
 echo Note : Terminal commands used / Use Linux.
 
+echo Switch case menu:
+
 read ch
 case $ch in
 1) ls -l ;;
