@@ -1,6 +1,8 @@
 echo Note : Terminal commands used / Use Linux.
 
 echo Switch case menu:
+echo 1.List directories. (long list)
+echo 2.Display date and time.
 
 read ch
 case $ch in
