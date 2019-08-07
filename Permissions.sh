@@ -5,5 +5,5 @@ then echo File has Read or Write privileges
 elif [ -r $fname -a -w $fname ]
 then echo File has both Read and Write privileges
 else echo File has no permissions granted 
-fi   
+fi    
 
