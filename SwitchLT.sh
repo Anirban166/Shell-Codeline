@@ -1,6 +1,6 @@
 echo Note : Terminal commands used / Use Linux.
 
-echo Switch case menu:
+echo Switch Case menu:
 echo 1.List directories. (long list)
 echo 2.Display date and time.
 echo 3.Display working directory.
