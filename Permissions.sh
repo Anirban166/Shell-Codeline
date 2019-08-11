@@ -1,4 +1,4 @@
-echo Enter Filename
+echo Enter Filename 
 read $fname 
 if [ -r $fname -o -w $fname ]
 then echo File has Read or Write privileges
