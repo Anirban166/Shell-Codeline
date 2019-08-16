@@ -1,7 +1,7 @@
 tput clear
 echo Enter a string :
 cat > str
-len=`cat str | wc -c`
+len=`cat str | wc -c` 
 len=`expr $len - 1`
 echo Length of the reversed string is $len
 echo Reversed string is :
